@@ -33,7 +33,9 @@ MongoDB is a distributed database at its core, so high availability, horizontal 
 3. Rich Query Language
 4. High Availability
 5. Horizontal Scalability
-
+6. Ad hoc queries
+7. Indexing
+8. Real time aggregation
 
 ### More Information
 [What is Mongo DB?](https://www.mongodb.com/what-is-mongodb)
