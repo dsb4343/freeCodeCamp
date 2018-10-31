@@ -34,7 +34,6 @@ MongoDB is a distributed database at its core, so high availability, horizontal 
 4. High Availability
 5. Horizontal Scalability
 
-
 ### More Information
 [What is Mongo DB?](https://www.mongodb.com/what-is-mongodb)
 
@@ -43,3 +42,8 @@ MongoDB is a distributed database at its core, so high availability, horizontal 
 [SQL vs NoSQL](https://insights.dice.com/2012/07/16/sql-vs-nosql-which-is-better/)
 
 [Learn MongoDB from MongoDB](https://university.mongodb.com/)
+
+### Getting Started with MongoDB <br><br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pWbMrx5rVBE"
+" target="_blank"><img src="http://img.youtube.com/vi/pWbMrx5rVBE/0.jpg" 
+alt="MongoDB in 30 Minutes" width="240" height="180" border="10" /></a>
